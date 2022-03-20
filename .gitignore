@@ -46,7 +46,6 @@ Session.vim
 
 # mac
 .DS_Store
-.env
 venv
 
 # pip
